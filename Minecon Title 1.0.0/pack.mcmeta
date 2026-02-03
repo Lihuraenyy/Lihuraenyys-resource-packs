@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Replaces the default game title with the old Minecon logo.",
+    "min_format": 69.0,
+    "max_format": 75.0
+  }
+}
